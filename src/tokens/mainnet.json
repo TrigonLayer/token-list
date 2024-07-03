@@ -5,8 +5,8 @@
     "name": "Pop Bitrock",
     "decimals": 18,
     "symbol": "pBROCK",
-    "logoURI": "https://raw.githubusercontent.com/excoinsevm/default-token-list/main/src/tokens/CoinLogos/0xcf65efcebdfdd91a16f0211d1a194eb6bdb50a0e.png"
-  }
+    "logoURI": "https://raw.githubusercontent.com/excoinsevm/default-token-list/main/src/tokens/CoinLogos/0x26eC84F702Ed08b7f2c77fF0806b53A647253666.png"
+  },
   {
     "chainId": 7171,
     "address": "0xcf65efcebdfdd91a16f0211d1a194eb6bdb50a0e",
