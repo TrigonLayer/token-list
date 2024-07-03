@@ -1,19 +1,10 @@
 [
   {
-    "name": "Pop Bitrock",
-    "address": "0x26ec84f702ed08b7f2c77ff0806b53a647253666",
-    "symbol": "pBROCK",
-    "decimals": 18,
     "chainId": 7171,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
-    }
-  },
-  {
-    "name": "Pop Swap",
     "address": "0xcf65efcebdfdd91a16f0211d1a194eb6bdb50a0e",
-    "symbol": "PSWAP",
+    "name": "Pop Swap",
     "decimals": 18,
-    "chainId": 7171,
+    "symbol": "PSWAP",
     "logoURI": "https://raw.githubusercontent.com/excoinsevm/default-token-list/main/src/tokens/CoinLogos/0xcf65efcebdfdd91a16f0211d1a194eb6bdb50a0e.png"
   }
 ]
