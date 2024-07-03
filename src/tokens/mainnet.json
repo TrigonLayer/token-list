@@ -14,6 +14,6 @@
     "symbol": "PSWAP",
     "decimals": 18,
     "chainId": 7171,
-    "logoURI": "https://www.dextools.io/resources/exchanges/PopSwap.webp"
+    "logoURI": "https://raw.githubusercontent.com/excoinsevm/default-token-list/main/src/tokens/CoinLogos/popcat.png"
   }
 ]
