@@ -15,4 +15,12 @@
     "symbol": "PSWAP",
     "logoURI": "https://raw.githubusercontent.com/excoinsevm/default-token-list/main/src/tokens/CoinLogos/0xcf65efcebdfdd91a16f0211d1a194eb6bdb50a0e.png"
   }
+  {
+    "chainId": 7171,
+    "address": "0xD647a6E1F898c39bA594443c19De0872EA935310",
+    "name": "USDBrock",
+    "decimals": 6,
+    "symbol": "USDB",
+    "logoURI": "https://raw.githubusercontent.com/excoinsevm/default-token-list/main/src/tokens/CoinLogos/0xcf65efcebdfdd91a16f0211d1a194eb6bdb50a0e.png"
+  }
 ]
