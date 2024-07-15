@@ -5,22 +5,22 @@
     "name": "Pop Bitrock",
     "decimals": 18,
     "symbol": "pBROCK",
-    "logoURI": "https://raw.githubusercontent.com/excoinsevm/default-token-list/main/src/tokens/CoinLogos/0x26eC84F702Ed08b7f2c77fF0806b53A647253666.png"
+    "logoURI": "https://raw.githubusercontent.com/popcatrock/default-token-list/main/src/tokens/CoinLogos/0x26eC84F702Ed08b7f2c77fF0806b53A647253666.png"
   },
   {
     "chainId": 7171,
-    "address": "0xcf65efcebdfdd91a16f0211d1a194eb6bdb50a0e",
+    "address": "0xCf65EFCebdfDd91a16F0211d1A194EB6bDB50a0E",
     "name": "PopSwap",
     "decimals": 18,
     "symbol": "PSWAP",
-    "logoURI": "https://raw.githubusercontent.com/excoinsevm/default-token-list/main/src/tokens/CoinLogos/0xcf65efcebdfdd91a16f0211d1a194eb6bdb50a0e.png"
-  }
+    "logoURI": "https://raw.githubusercontent.com/popcatrock/default-token-list/main/src/tokens/CoinLogos/0xcf65efcebdfdd91a16f0211d1a194eb6bdb50a0e.png"
+  },
   {
     "chainId": 7171,
     "address": "0xd647a6e1f898c39ba594443c19de0872ea935310",
     "name": "USDBrock",
     "decimals": 6,
     "symbol": "USDB",
-    "logoURI": "https://raw.githubusercontent.com/excoinsevm/default-token-list/main/src/tokens/CoinLogos/0xd647a6e1f898c39ba594443c19de0872ea935310.png"
+    "logoURI": "https://raw.githubusercontent.com/popcatrock/default-token-list/main/src/tokens/CoinLogos/0xd647a6e1f898c39ba594443c19de0872ea935310.png"
   }
 ]

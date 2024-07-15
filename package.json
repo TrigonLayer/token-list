@@ -1,6 +1,6 @@
 {
-  "name": "@popswap/default-token-list",
-  "version": "12.3.0",
+  "name": "@popswap/token-list",
+  "version": "0.0.1",
   "description": "The popswap default token list",
   "main": "build/popswap-default.tokenlist.json",
   "scripts": {
@@ -13,20 +13,20 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Excoinsevm/default-token-list.git"
+    "url": "git+https://github.com/PopCatRock/token-list.git"
   },
   "keywords": [
-    "uniswap",
+    "Popswap",
     "default",
     "token",
     "list"
   ],
-  "author": "Moody Salem",
+  "author": "PopCatDev",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/Excoinsevm/default-token-list/issues"
+    "url": "https://github.com/PopCatRock/token-list/issues"
   },
-  "homepage": "https://github.com/Excoinsevm/default-token-list#readme",
+  "homepage": "https://github.com/PopCatRock/token-list#readme",
   "devDependencies": {
     "@ethersproject/address": "^5.0.2",
     "@uniswap/token-list-bridge-utils": "^2.3.0",
