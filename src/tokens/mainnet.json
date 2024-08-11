@@ -9,14 +9,6 @@
   },
   {
     "chainId": 7171,
-    "address": "0xa92214Fa4E511620a66945a17363F40B6f69f320",
-    "name": "PopSwap",
-    "decimals": 18,
-    "symbol": "PSWAP",
-    "logoURI": "https://raw.githubusercontent.com/popcatrock/default-token-list/main/src/tokens/CoinLogos/0xa92214Fa4E511620a66945a17363F40B6f69f320.png"
-  },
-  {
-    "chainId": 7171,
     "address": "0xD647a6E1F898c39bA594443c19De0872EA935310",
     "name": "USDBrock",
     "decimals": 6,
