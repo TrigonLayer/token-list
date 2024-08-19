@@ -1,10 +1,10 @@
 [
     {
     "chainId": 7171,
-    "address": "0xc8fAfDA6c40fBa492a811fC1081a70FEbdF0C9D9",
-    "name": "Popped Bitrock",
+    "address": "0x413f0E3A440abA7A15137F4278121450416882d5",
+    "name": "Wrapped Bitrock",
     "decimals": 18,
-    "symbol": "pBROCK",
+    "symbol": "WBROCK",
     "logoURI": "https://popcatrock.github.io/token-list/src/tokens/CoinLogos/0x26eC84F702Ed08b7f2c77fF0806b53A647253666.png"
   },
   {
