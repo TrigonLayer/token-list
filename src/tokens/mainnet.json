@@ -5,7 +5,7 @@
     "name": "Wrapped Bitrock",
     "decimals": 18,
     "symbol": "WBROCK",
-    "logoURI": "https://popcatrock.github.io/token-list/src/tokens/CoinLogos/0x26eC84F702Ed08b7f2c77fF0806b53A647253666.png"
+    "logoURI": "https://popcatrock.github.io/token-list/src/tokens/CoinLogos/0x413f0E3A440abA7A15137F4278121450416882d5.png"
   },
   {
     "chainId": 7171,
@@ -17,6 +17,14 @@
   },
   {
     "chainId": 7171,
+    "address": "0x0FC14d74b66EFa44AccBBe284cCdD356039e59dC",
+    "name": "PopSwap",
+    "decimals": 18,
+    "symbol": "PSWAP",
+    "logoURI": "https://raw.githubusercontent.com/PopCatRock/token-list/main/src/tokens/CoinLogos/0x0FC14d74b66EFa44AccBBe284cCdD356039e59dC.png"
+  },
+  {
+    "chainId": 7171,
     "address": "0xdcE5726e3Bc8E1F574416978279bb0AE62AB3c15",
     "name": "PopCatRock",
     "decimals": 18,
@@ -24,3 +32,4 @@
     "logoURI": "https://https://popcatrock.github.io/token-list/src/tokens/CoinLogos/0xdcE5726e3Bc8E1F574416978279bb0AE62AB3c15.png"
   }
 ]
+
