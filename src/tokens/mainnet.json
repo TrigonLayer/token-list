@@ -1,50 +1,10 @@
 [
     {
-    "chainId": 7171,
-    "address": "0x413f0E3A440abA7A15137F4278121450416882d5",
-    "name": "Wrapped Bitrock",
+    "chainId": 586,
+    "address": "0x0E581b9CdcE746C5efeA632bE7766A9a1f29Ae66",
+    "name": "Wrapped Nexus",
     "decimals": 18,
-    "symbol": "WBROCK",
-    "logoURI": "https://raw.githubusercontent.com/PopCatRock/token-list/main/src/tokens/CoinLogos/0x413f0E3A440abA7A15137F4278121450416882d5.png"
-  },
-  {
-    "chainId": 7171,
-    "address": "0xD647a6E1F898c39bA594443c19De0872EA935310",
-    "name": "USDBrock",
-    "decimals": 6,
-    "symbol": "USDB",
-    "logoURI": "https://raw.githubusercontent.com/PopCatRock/token-list/main/src/tokens/CoinLogos/0xd647a6e1f898c39ba594443c19de0872ea935310.png"
-  },
-  {
-    "chainId": 7171,
-    "address": "0x0FC14d74b66EFa44AccBBe284cCdD356039e59dC",
-    "name": "PopSwap",
-    "decimals": 18,
-    "symbol": "PSWAP",
-    "logoURI": "https://raw.githubusercontent.com/PopCatRock/token-list/main/src/tokens/CoinLogos/0xd647a6e1f898c39ba594443c19de0872ea935310.png"
-  },
-  {
-    "chainId": 7171,
-    "address": "0xdcE5726e3Bc8E1F574416978279bb0AE62AB3c15",
-    "name": "PopCatRock",
-    "decimals": 18,
-    "symbol": "POPCAT",
-    "logoURI": "https://raw.githubusercontent.com/PopCatRock/token-list/main/src/tokens/CoinLogos/0xdcE5726e3Bc8E1F574416978279bb0AE62AB3c15.png"
-  },
-  {
-    "chainId": 7171,
-    "address": "0x9a6DdC9c7d873Bfc20E34ACb1AaE41735A9856d6",
-    "name": "SadCoin",
-    "decimals": 18,
-    "symbol": "SAD",
-    "logoURI": "https://raw.githubusercontent.com/PopCatRock/token-list/main/src/tokens/CoinLogos/0x9a6DdC9c7d873Bfc20E34ACb1AaE41735A9856d6.png"
-  },
-  {
-    "chainId": 7171,
-    "address": "0xed4781de694D99e3800bD4Ec863dcBa9cC9C6C82",
-    "name": "Shiba Rock",
-    "decimals": 18,
-    "symbol": "SHROCK",
-    "logoURI": "https://raw.githubusercontent.com/PopCatRock/token-list/main/src/tokens/CoinLogos/0xed4781de694D99e3800bD4Ec863dcBa9cC9C6C82.png"
+    "symbol": "WNEX",
+    "logoURI": "https://raw.githubusercontent.com/TrigonLayer/token-list/refs/heads/main/src/logos/0x0E581b9CdcE746C5efeA632bE7766A9a1f29Ae66.png"
   }
 ]
