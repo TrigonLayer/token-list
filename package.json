@@ -1,32 +1,24 @@
 {
-  "name": "@popswap/token-list",
-  "version": "0.0.1",
-  "description": "The popswap default token list",
-  "main": "build/popswap-default.tokenlist.json",
+  "name": "@nexuslayer/token-list",
+  "version": "0.1.0",
+  "description": "The nexus default token list",
+  "main": "build/nexus-default.tokenlist.json",
   "scripts": {
     "test": "mocha",
-    "build": "rimraf build && mkdir -p build && node src/write.js > build/popswap-default.tokenlist.json",
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/nexus-default.tokenlist.json",
     "prepublishOnly": "npm test && npm run build"
   },
   "files": [
-    "build/popswap-default.tokenlist.json"
+    "build/nexus-default.tokenlist.json"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/PopCatRock/token-list.git"
-  },
   "keywords": [
-    "Popswap",
     "default",
     "token",
     "list"
   ],
-  "author": "PopCatDev",
+  "author": "NexusLayerDev",
   "license": "GPL-3.0-or-later",
-  "bugs": {
-    "url": "https://github.com/PopCatRock/token-list/issues"
-  },
-  "homepage": "https://github.com/PopCatRock/token-list#readme",
+  
   "devDependencies": {
     "@ethersproject/address": "^5.0.2",
     "@uniswap/token-list-bridge-utils": "^2.3.0",
