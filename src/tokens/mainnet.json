@@ -6,5 +6,13 @@
     "decimals": 18,
     "symbol": "WNEX",
     "logoURI": "https://raw.githubusercontent.com/TrigonLayer/token-list/refs/heads/main/src/logos/0x0E581b9CdcE746C5efeA632bE7766A9a1f29Ae66.png"
+  },
+  {
+    "chainId": 586,
+    "address": "0x26aCBE672A9c29d89313b5c8b72c1B0493b7C386",
+    "name": "NeXwap",
+    "decimals": 18,
+    "symbol": "XWAP",
+    "logoURI": "https://raw.githubusercontent.com/TrigonLayer/token-list/refs/heads/main/src/logos/0x26aCBE672A9c29d89313b5c8b72c1B0493b7C386.png"
   }
 ]
